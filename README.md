@@ -8,27 +8,44 @@ Insurance companies need to accurately predict the cost of health insurance for 
 ● Enhance Precision in Pricing ● Increase Competitiveness ● Improve Customer Satisfaction ● Enable Personalized Offerings ● Risk Assessment ● Policy Development ● Strategic Decision Making ● Customer Engagement
 
 Enhance Precision in Pricing: Use individual data points for accurate risk-based premiums.
+
 Increase Competitiveness: Offer attractive and sustainable rates.
+
 Improve Customer Satisfaction: Ensure fair, transparent pricing.
+
 Enable Personalized Offerings: Tailor insurance packages to individual needs.
+
 Risk Assessment: Refine risk assessment processes.
+
 Policy Development: Inform new product development.
+
 Strategic Decision Making: Aid in market entry and policy adjustments.
+
 Customer Engagement: Use insights for personalized marketing and advice.
 
 ## Data Description
 The dataset comprises the following 11 attributes:
 
   Age: Numeric, ranging from 18 to 66 years.
+  
   Diabetes: Binary (0 or 1), where 1 indicates the presence of diabetes.
+  
   BloodPressureProblems: Binary (0 or 1), indicating the presence of blood pressure-related issues.
+  
   AnyTransplants: Binary (0 or 1), where 1 indicates the person has had a transplant.
+  
   AnyChronicDiseases: Binary (0 or 1), indicating the presence of any chronic diseases.
+  
   Height: Numeric, measured in centimeters, ranging from 145 cm to 188 cm.
+  
   Weight: Numeric, measured in kilograms, ranging from 51 kg to 132 kg.
+  
   KnownAllergies: Binary (0 or 1), where 1 indicates known allergies.
+  
   HistoryOfCancerInFamily: Binary (0 or 1), indicating a family history of cancer.
+  
   NumberOfMajorSurgeries: Numeric, counting the number of major surgeries, ranging from 0 to 3 surgeries.
+  
   PremiumPrice: Numeric, representing the premium price in currency, ranging from 15,000 to 40,000.
   
 ## Block 1: Tableau Visualization
