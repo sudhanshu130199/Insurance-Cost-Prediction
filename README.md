@@ -7,6 +7,15 @@ Insurance companies need to accurately predict the cost of health insurance for 
 ## Project Need
 ● Enhance Precision in Pricing ● Increase Competitiveness ● Improve Customer Satisfaction ● Enable Personalized Offerings ● Risk Assessment ● Policy Development ● Strategic Decision Making ● Customer Engagement
 
+Enhance Precision in Pricing: Use individual data points for accurate risk-based premiums.
+Increase Competitiveness: Offer attractive and sustainable rates.
+Improve Customer Satisfaction: Ensure fair, transparent pricing.
+Enable Personalized Offerings: Tailor insurance packages to individual needs.
+Risk Assessment: Refine risk assessment processes.
+Policy Development: Inform new product development.
+Strategic Decision Making: Aid in market entry and policy adjustments.
+Customer Engagement: Use insights for personalized marketing and advice.
+
 ## Data Description
 The dataset comprises the following 11 attributes:
 
@@ -22,7 +31,7 @@ The dataset comprises the following 11 attributes:
   NumberOfMajorSurgeries: Numeric, counting the number of major surgeries, ranging from 0 to 3 surgeries.
   PremiumPrice: Numeric, representing the premium price in currency, ranging from 15,000 to 40,000.
   
-## Tableau Visualization
+## Block 1: Tableau Visualization
 
 ### Goal
 ● Visualize key data points ● Predictive Analysis ● Generate strategic insights
@@ -30,14 +39,14 @@ The dataset comprises the following 11 attributes:
 ### Interactive Features
 ● Filters, sliders, drill-down capabilities, tooltips ● Insights gathering: Predictive insights, risk profiles, policy recommendations
 
-## EDA and Hypothesis Testing
+## Block 2: EDA and Hypothesis Testing
 ### Goals
 ● Visualize distributions, identify outliers, explore correlations ● Test hypotheses on premium costs based on health conditions and demographics
 
 ### Methods
 ● Distribution analysis ● Correlation analysis ● Outlier detection ● Hypothesis testing: T-tests, ANOVA, Chi-square tests, regression analysis
 
-## ML Modeling
+## Block 3: ML Modeling
 ### Data Preprocessing
 ● Handle missing values, feature engineering, scaling, and encoding
 
@@ -50,7 +59,7 @@ The dataset comprises the following 11 attributes:
 ### Interpretability
 ● Feature importance, model insights
 
-## Deployment
+## Block 4: Deployment
 ### Objectives
 ● Accessibility, real-time estimations, user-friendly interface
 
