@@ -5,7 +5,6 @@ Insurance companies need to accurately predict the cost of health insurance for 
 
 
 ## Project Need
-● Enhance Precision in Pricing ● Increase Competitiveness ● Improve Customer Satisfaction ● Enable Personalized Offerings ● Risk Assessment ● Policy Development ● Strategic Decision Making ● Customer Engagement
 
 Enhance Precision in Pricing: Use individual data points for accurate risk-based premiums.
 
@@ -84,4 +83,12 @@ The dataset comprises the following 11 attributes:
 ● Streamlit Application: User input forms and real-time predictions
 
 ## Links
+
+**Dataset:** https://drive.google.com/file/d/1NBk1TFkK4NeKdodR2DxIdBp2Mk1mh4AS/view?usp=drive_link
+
+**Tableau Public:** https://public.tableau.com/app/profile/sudhanshu.sthapak/viz/InsuranceCostPredictionDashboard_1/InsuranceCostPredictionDashboard
+
+**Github link:** https://github.com/sudhanshu130199/Insurance-Cost-Prediction
+
+**Streamlit:** https://insurance-cost-prediction-ue4avkror8nhgsztdnkfqr.streamlit.app/
  
